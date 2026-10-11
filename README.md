@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Maximo Hugo Quiñones 👋</h1>
+<h1 align="center">Hola, soy Maximo Hugo Quiñones </h1>
 
 <h3 align="center">Estudiante de Licenciatura en Ciencias de la Computación · Desarrollador de Software en formación</h3>
 
